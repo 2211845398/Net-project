@@ -1,1 +1,1 @@
-alert("just run bro, programming isn't easy");
+alert("just do it");
